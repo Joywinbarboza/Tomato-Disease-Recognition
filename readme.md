@@ -6,7 +6,7 @@
 - Epochs: 30
 - Classes: 10
 - All CNN layers were added.
-
+- Used val in PlantVillage as testing dataset
 ## Results
 https://www.kaggle.com/code/motupatlu123/tomato-plant-model-creation
 Model successfully trained and added to the git repository.
